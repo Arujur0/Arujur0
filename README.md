@@ -10,7 +10,7 @@
 </div>
 
 ## 👨‍💻 About Me:
-- 🎓 I am a Master's student at Simon Fraser University studying  Computer Science with a specialization in Visual Computing.
+- 🎓 I am a Master's student at Simon Fraser University studying Computer Science specializing in Visual Computing.
 - 🔭 Exploring and working on projects in deep learning and Computer Vision.
 - 📧 I am reachable at [apa133@sfu.ca](mailto:apa133@sfu.ca)
 
