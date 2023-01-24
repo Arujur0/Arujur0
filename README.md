@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me:
 - 🎓 I am a Master's student at Simon Fraser University studying Computer Science with a specialization in Visual Computing.
 - 🔭 Exploring and working on projects in deep learning and Computer Vision.
-- 📧[I am reachable at](mailto:apa133@sfu.ca)
+- 📧 I am reachable at [apa133@sfu.ca](mailto:apa133@sfu.ca)
 
 ## My Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arujur0&show_icons=true&theme=midnight-purple)
