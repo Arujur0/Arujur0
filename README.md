@@ -1,4 +1,5 @@
 
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
 </div>
@@ -7,8 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
----
 
 ## 👨‍💻 About Me:
 - 🎓 I am a Master's student at Simon Fraser University studying Computer Science with a specialization in Visual Computing.
