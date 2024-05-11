@@ -14,6 +14,6 @@
 - 🔭 Exploring and working on projects in deep learning and Computer Vision.
 - 📧 I am reachable at [apa133@sfu.ca](mailto:apa133@sfu.ca)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arujur0&show_icons=true&theme=midnight-purple)
+
 
 ---
