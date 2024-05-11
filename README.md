@@ -11,8 +11,9 @@
 
 ## 👨‍💻 About Me:
 - 🎓 I am a Master's student at Simon Fraser University studying Computer Science specializing in Visual Computing.
-- 🔭 Exploring and working on projects in deep learning and Computer Vision.
-- 📧 I am reachable at [apa133@sfu.ca](mailto:apa133@sfu.ca)
+- 🔭 Exploring and working on projects in deep learning and Computer Vision. 
+- 💻 Ex Machine Learning Researcher Co-Op @ Huawei, Ex Software Developer Intern @ Get2Know 
+- 📧 I am reachable at [arvindpriyam12@gmail.com](mailto:arvindpriyam12@gmail.com)
 
 
 
