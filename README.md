@@ -14,7 +14,9 @@
 - 🔭 Exploring and working on projects in deep learning and Computer Vision. 
 - 💻 Ex Machine Learning Researcher Co-Op @ Huawei, Ex Software Developer Intern @ Get2Know 
 - 📧 I am reachable at [arvindpriyam12@gmail.com](mailto:arvindpriyam12@gmail.com)
-
+- 📄 Papers published in Springer LNNS, and IEEE Xplore.
+  - 📃 [Epilepsy Prediction using TIme Series Classifiers](https://link.springer.com/chapter/10.1007/978-981-19-2225-1_3)
+  - 📃 [Predicting Osteosarcoma using eXtreme Gradient Boosting Model](https://ieeexplore.ieee.org/document/9752602)     
 
 
 ---
