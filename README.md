@@ -10,9 +10,9 @@
 </div>
 
 ## 👨‍💻 About Me:
-- 🎓 I am a Master's student at Simon Fraser University studying Computer Science specializing in Visual Computing.
+- 🎓 I am a recent Master's graduate from Simon Fraser University in Master of Science in Computer Science program.
 - 🔭 Exploring and working on projects in deep learning and Computer Vision. 
-- 💻 Ex Machine Learning Researcher Co-Op @ Huawei, Ex Software Developer Intern @ Get2Know 
+- 💻 Ex Machine Learning Researcher Intern @ Noah Ark Labs Huawei, Ex Software Engineer Intern @ Get2Know 
 - 📧 I am reachable at [arvindpriyam12@gmail.com](mailto:arvindpriyam12@gmail.com)
 - 📄 Papers published in Springer LNNS, and IEEE Xplore.
   - 📃 [Epilepsy Prediction using TIme Series Classifiers](https://link.springer.com/chapter/10.1007/978-981-19-2225-1_3)
